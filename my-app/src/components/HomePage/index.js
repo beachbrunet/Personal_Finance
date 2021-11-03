@@ -1,7 +1,6 @@
 // about me
 import React from "react";
 import "./home.css";
-import image from "../../assets/catherine.jpeg";
 
 const homePage = () => {
   return (
